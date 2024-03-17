@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rrezon\\Desktop\\LAB1\\Restaurant_management_system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F98554C-6423-4FB1-8E7C-25027176BAE1}|Restaurant_management_system.csproj|c:\\users\\rrezon\\desktop\\lab1\\restaurant_management_system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F98554C-6423-4FB1-8E7C-25027176BAE1}|Restaurant_management_system.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F98554C-6423-4FB1-8E7C-25027176BAE1}|Restaurant_management_system.csproj|c:\\users\\rrezon\\desktop\\lab1\\restaurant_management_system\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F98554C-6423-4FB1-8E7C-25027176BAE1}|Restaurant_management_system.csproj|solutionrelative:class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F98554C-6423-4FB1-8E7C-25027176BAE1}|Restaurant_management_system.csproj|c:\\users\\rrezon\\desktop\\lab1\\restaurant_management_system\\restaurant_management_system.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9F98554C-6423-4FB1-8E7C-25027176BAE1}|Restaurant_management_system.csproj|solutionrelative:restaurant_management_system.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F98554C-6423-4FB1-8E7C-25027176BAE1}|Restaurant_management_system.csproj|c:\\users\\rrezon\\desktop\\lab1\\restaurant_management_system\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F98554C-6423-4FB1-8E7C-25027176BAE1}|Restaurant_management_system.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Rrezon\\Desktop\\LAB1\\Restaurant_management_system\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Rrezon\\Desktop\\LAB1\\Restaurant_management_system\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T23:46:17.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Restaurant_management_system.http",
+              "DocumentMoniker": "C:\\Users\\Rrezon\\Desktop\\LAB1\\Restaurant_management_system\\Restaurant_management_system.http",
+              "RelativeDocumentMoniker": "Restaurant_management_system.http",
+              "ToolTip": "C:\\Users\\Rrezon\\Desktop\\LAB1\\Restaurant_management_system\\Restaurant_management_system.http",
+              "RelativeToolTip": "Restaurant_management_system.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-16T23:45:56.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Rrezon\\Desktop\\LAB1\\Restaurant_management_system\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Rrezon\\Desktop\\LAB1\\Restaurant_management_system\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwCIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T23:45:12.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\Rrezon\\Desktop\\LAB1\\Restaurant_management_system\\Class.cs",
+              "RelativeDocumentMoniker": "Class.cs",
+              "ToolTip": "C:\\Users\\Rrezon\\Desktop\\LAB1\\Restaurant_management_system\\Class.cs",
+              "RelativeToolTip": "Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T23:44:31.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
